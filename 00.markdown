@@ -1,0 +1,114 @@
+---
+out:index.html
+---
+
+# Digimead Structure
+
+<div style="text-align: center;">
+  <div style="border: 1px solid grey;">
+    <div id="panzoom" style="visibility: hidden;"></div>
+  </div>
+  <div style="display:inline-block;margin-left:auto;margin-right:auto;">
+    <button class="zoom-in">Zoom In</button>
+    <button class="zoom-out">Zoom Out</button>
+    <input type="range" class="zoom-range"></input>
+    <button class="reset">Reset</button>
+  </div>
+</div>
+<link rel="stylesheet" type="text/css" href="css/jquery.svg.css"></link>
+<script type="text/javascript" src="files/jquery.svg.js"></script>
+<script type="text/javascript" src="files/jquery.svgdom.js"></script>
+<script type="text/javascript" src="files/jquery.panzoom.min.js"></script>
+<style>
+.selected, .selectedPlugin, .selectedPluginRef{
+  cursor: pointer;
+}
+.selected rect, .selected path {
+  fill: #aaaaac !important;
+}
+.selectedPlugin rect, .selectedPlugin path {
+  stroke: grey !important;
+  stroke-width: 1 !important;
+  stroke-dasharray: 1,1 !important;
+}
+.selectedPluginRef {
+  stroke: black !important;
+  stroke-width: 3 !important;
+}
+</style>
+<script type="text/javascript">
+function findProjectDescription(projectId) {
+  var result = null;
+  _.some(artifact.menu, function(menu) {
+    if (menu.length === 3) {
+      if (typeof menu[2] !== 'string') {
+        return _.some(menu[2], function(submenu) {
+          if (submenu[0].toLowerCase() === projectId) {
+            result = submenu[1];
+            return true;
+          }
+        });
+      }
+    };
+  });
+  return result;
+};
+
+$('#panzoom').height($(window).height()/3*2).svg({});
+var svg = $('#panzoom').svg('get');
+svg.load("files/digi.svg", {
+  addTo: false,
+  changeSize: true,
+  onLoad: function() {
+    var mapContainer = $('#panzoom');
+    mapContainer.panzoom({
+      $zoomIn: $(".zoom-in"),
+      $zoomOut: $(".zoom-out"),
+      $zoomRange: $(".zoom-range"),
+      $reset: $(".reset")
+    });
+    var adjustMap = function(value) {
+      if (value !== "ArtifactsLoaded") { return; }
+      _.each(Object.keys(artifact.all), function(name) {
+        var common = artifact.all[name].common;
+        var projectId = artifact.all[name].common.project.toLowerCase();
+        var description = findProjectDescription(projectId);
+        if (projectId !== "") {
+          //console.log(common.project);
+          if (common.pluginForSBT === 1) {
+            $("g#" + projectId, svg.root).attr("title", description).hover(function() {
+              $(this).addClass("selectedPlugin");
+            }, function() {
+              $(this).removeClass("selectedPlugin");
+            }).click(function() {
+              window.location = 'http://' + common.user + '.github.io/' + common.project + '/';
+            });
+            $("." + projectId, svg.root).attr("title", description).hover(function() {
+              $(this).addClass("selectedPluginRef");
+              $("g#" + projectId, svg.root).addClass("selectedPlugin");
+            }, function() {
+              $(this).removeClass("selectedPluginRef");
+              $("g#" + projectId, svg.root).removeClass("selectedPlugin");
+            }).click(function() {
+              window.location = 'http://' + common.user + '.github.io/' + common.project + '/';
+            });
+          } else {
+            $("g#" + projectId, svg.root).attr("title", description).hover(function() {
+              $(this).addClass("selected");
+            }, function() {
+              $(this).removeClass("selected");
+            }).click(function() {
+              window.location = 'http://' + common.user + '.github.io/' + common.project + '/';
+            });
+          }
+        } else {
+          console.log("Unable to process empty projectId for " + name);
+        }
+      });
+    }
+    callbacks.add(adjustMap);
+    if (site.loaded == site.total) { adjustMap("ArtifactsLoaded"); }
+    mapContainer.css("visibility", "visible");
+  }
+});
+</script>
