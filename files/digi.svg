@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1100"
+   height="880"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="digi.svg"
+   inkscape:export-filename="/home/ezh/projects/digi.png"
+   inkscape:export-xdpi="50"
+   inkscape:export-ydpi="50">
+  <title
+     id="title4889">Digimead components</title>
+  <metadata
+     id="metadata157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Digimead components</dc:title>
+        <dc:date>2013</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Alexey Aksenov</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>en</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>digimead</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Alexey Aksenov</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Alexey Aksenov</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="298.70968"
+     inkscape:cy="614.8179"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1145"
+     inkscape:window-x="1198"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     units="px"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4961"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-172.36218)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 6;stroke-dashoffset:0"
+       id="rect3896"
+       width="499.5"
+       height="219.5"
+       x="550.25"
+       y="752.61218" />
+    <g
+       id="digi-lib-test">
+      <rect
+         inkscape:label="#rect4172"
+         y="892.85791"
+         x="50.5"
+         height="78.999893"
+         width="149.05507"
+         id="DigiTest"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.96511467,1.0361463)"
+         sodipodi:linespacing="125%"
+         id="text4176"
+         y="903.64673"
+         x="91.863708"
+         style="font-size:15.63978481px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Cyberbit;-inkscape-font-specification:Bitstream Cyberbit"
+         xml:space="preserve"><tspan
+           y="903.64673"
+           x="91.863708"
+           id="tspan4178"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Digi Test</tspan></text>
+    </g>
+    <g
+       id="digi-lib">
+      <rect
+         inkscape:label="#rect4174"
+         y="757.86658"
+         x="150.47247"
+         height="78.991188"
+         width="149.05507"
+         id="DigiLib"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.96516778,1.0360893)"
+         sodipodi:linespacing="125%"
+         id="text4180"
+         y="773.40271"
+         x="199.3745"
+         style="font-size:15.63892269px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Cyberbit;-inkscape-font-specification:Bitstream Cyberbit"
+         xml:space="preserve"><tspan
+           y="773.40271"
+           x="199.3745"
+           id="tspan4182"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Digi Lib</tspan></text>
+    </g>
+    <g
+       id="digi-lib-util">
+      <rect
+         inkscape:label="#rect4174-2"
+         y="632.86658"
+         x="50.472466"
+         height="78.991188"
+         width="149.05507"
+         id="DigiUtil"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.96516778,1.0360893)"
+         sodipodi:linespacing="125%"
+         id="text5435"
+         y="652.79437"
+         x="91.82122"
+         style="font-size:15.63892269px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Cyberbit;-inkscape-font-specification:Bitstream Cyberbit"
+         xml:space="preserve"><tspan
+           y="652.79437"
+           x="91.82122"
+           id="tspan5437"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Digi Util</tspan></text>
+    </g>
+    <g
+       id="digi-lib-slf4j">
+      <rect
+         inkscape:label="#rect4174-9"
+         y="502.86664"
+         x="50.472733"
+         height="78.991188"
+         width="149.06245"
+         id="DigiSLF4JRect"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.96519171,1.0360636)"
+         sodipodi:linespacing="125%"
+         id="text5427"
+         y="527.29797"
+         x="87.877777"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan5431"
+           y="527.29797"
+           x="87.877777"
+           sodipodi:role="line"
+           style="font-size:14px">Digi SLF4J</tspan></text>
+    </g>
+    <g
+       id="sbt-dependency-manager"
+       transform="translate(80,0)">
+      <path
+         inkscape:label="#path3017-1"
+         d="m 30.09375,392.25 0,45 50,0 0,-45 -50,0 z"
+         id="SBT-Dependency-Manager"
+         style="fill:#ffc022;fill-opacity:1;stroke:#cac5a2;stroke-width:0.25470966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:original="M 30.09375 392.25 L 30.09375 437.25 L 80.09375 437.25 L 80.09375 392.25 L 30.09375 392.25 z "
+         inkscape:radius="0"
+         sodipodi:type="inkscape:offset"
+         transform="matrix(4.39,0,0,0.87777778,358.13844,468.30385)" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text3811"
+         y="834.50287"
+         x="494.99341"
+         style="font-size:24.0266304px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.01775169px"
+           y="834.50287"
+           x="494.99341"
+           id="tspan3813"
+           sodipodi:role="line">SBT Dependency Manager</tspan></text>
+    </g>
+    <g
+       id="sbt-osgi-manager"
+       transform="translate(80,0)">
+      <path
+         inkscape:label="#path3017-1-1"
+         d="m 30.09375,392.25 0,45 50,0 0,-45 -50,0 z"
+         id="SBT-OSGi-Manager"
+         style="fill:#ff4141;fill-opacity:1;stroke:#cac5a2;stroke-width:0.25470966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:original="M 30.09375 392.25 L 30.09375 437.25 L 80.09375 437.25 L 80.09375 392.25 L 30.09375 392.25 z "
+         inkscape:radius="0"
+         sodipodi:type="inkscape:offset"
+         transform="matrix(4.39,0,0,0.87777778,358.13844,518.30385)" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text3811-5"
+         y="884.36603"
+         x="525.60547"
+         style="font-size:24.0266304px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.01775169px"
+           y="884.36603"
+           x="525.60547"
+           id="tspan3813-5"
+           sodipodi:role="line">SBT OSGi Manager</tspan></text>
+    </g>
+    <g
+       id="sbt-site-manager"
+       transform="translate(80,0)">
+      <path
+         inkscape:label="#path3017-1-6"
+         d="m 30.09375,392.25 0,45 50,0 0,-45 -50,0 z"
+         id="SBT-Site-Manager"
+         style="fill:#ffff3e;fill-opacity:1;stroke:#cac5a2;stroke-width:0.25470966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:original="M 30.09375 392.25 L 30.09375 437.25 L 80.09375 437.25 L 80.09375 392.25 L 30.09375 392.25 z "
+         inkscape:radius="0"
+         sodipodi:type="inkscape:offset"
+         transform="matrix(4.39,0,0,0.87777778,358.13844,568.30385)" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text3811-9"
+         y="934.22919"
+         x="530.04791"
+         style="font-size:24.0266304px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.01775169px"
+           y="934.22919"
+           x="530.04791"
+           id="tspan3813-7"
+           sodipodi:role="line">SBT Site Manager</tspan></text>
+    </g>
+    <g
+       id="sbt-aspectj-nested"
+       transform="translate(80,0)">
+      <path
+         inkscape:label="#path3017-1-6-5"
+         d="m 30.09375,392.25 0,45 50,0 0,-45 -50,0 z"
+         id="SBT-AspectJ-Nested"
+         style="fill:#ccff42;fill-opacity:1;stroke:#cac5a2;stroke-width:0.25470966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:original="M 30.09375 392.25 L 30.09375 437.25 L 80.09375 437.25 L 80.09375 392.25 L 30.09375 392.25 z "
+         inkscape:radius="0"
+         sodipodi:type="inkscape:offset"
+         transform="matrix(4.39,0,0,0.87777778,598.13844,468.30385)" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text3811-9-8"
+         y="834.50287"
+         x="764.10553"
+         style="font-size:24.0266304px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.01775169px"
+           y="834.50287"
+           x="764.10553"
+           id="tspan3813-7-6"
+           sodipodi:role="line">SBT AspectJ Nested</tspan></text>
+    </g>
+    <g
+       id="sbt-pgp"
+       transform="translate(80,0)">
+      <path
+         inkscape:label="#path3017-1-6-8"
+         d="m 30.09375,392.25 0,45 50,0 0,-45 -50,0 z"
+         id="SBT-PGP"
+         style="fill:#bdcdd4;fill-opacity:1;stroke:#cac5a2;stroke-width:0.25470966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none"
+         inkscape:original="M 30.09375 392.25 L 30.09375 437.25 L 80.09375 437.25 L 80.09375 392.25 L 30.09375 392.25 z "
+         inkscape:radius="0"
+         sodipodi:type="inkscape:offset"
+         transform="matrix(4.39,0,0,0.87777778,598.13844,518.30385)" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text3811-9-4"
+         y="885.77777"
+         x="808.15826"
+         style="font-size:24.0266304px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.01775169px"
+           y="885.77777"
+           x="808.15826"
+           id="tspan3813-7-7"
+           sodipodi:role="line">SBT PGP</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24.0266304px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="570.08948"
+       y="780.60217"
+       id="text4080"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99726291,1.0027446)"><tspan
+         sodipodi:role="line"
+         id="tspan4082"
+         x="570.08948"
+         y="780.60217"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Dingbats;-inkscape-font-specification:Dingbats Bold">SBT Plugins</tspan></text>
+    <g
+       id="pojosrx">
+      <rect
+         inkscape:label="#rect4172-6"
+         y="892.8667"
+         x="260.47247"
+         height="78.991188"
+         width="149.05507"
+         id="rect5092"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.96516778,1.0360893)"
+         sodipodi:linespacing="125%"
+         id="text4176-7"
+         y="903.74835"
+         x="317.00156"
+         style="font-size:15.63892269px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Cyberbit;-inkscape-font-specification:Bitstream Cyberbit"
+         xml:space="preserve"><tspan
+           y="903.74835"
+           x="317.00156"
+           id="tspan4178-4"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">PojoSRX</tspan></text>
+    </g>
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108"
+       width="19"
+       height="9"
+       x="280.5"
+       y="962.86212"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84"
+       width="19"
+       height="9"
+       x="300.5"
+       y="962.86212"
+       class="sbt-site-manager" />
+    <g
+       id="digi-configgy">
+      <rect
+         inkscape:label="#rect4174-9-3"
+         y="372.86215"
+         x="50.5"
+         height="79"
+         width="149"
+         id="Digi-Configgy"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text5893"
+         y="415.04794"
+         x="70.402649"
+         style="font-size:16.01775169px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         xml:space="preserve"><tspan
+           y="415.04794"
+           x="70.402649"
+           id="tspan5895"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Digi Configgy</tspan></text>
+    </g>
+    <g
+       id="digi-jfx4swt">
+      <rect
+         inkscape:label="#rect4174-9-3-0"
+         y="242.86658"
+         x="50.472466"
+         height="78.991188"
+         width="149.05507"
+         id="Digi-Launcher"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text5915"
+         y="285.40378"
+         x="74.500793"
+         style="font-size:16.01775169px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="285.40378"
+           x="74.500793"
+           id="tspan5917"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Digi JFX4SWT</tspan></text>
+    </g>
+    <g
+       id="g3136"
+       transform="matrix(1.8867731,0,0,2.025415,8.2115204,-919.0737)">
+      <rect
+         inkscape:label="#rect4174-9-3-0-3"
+         y="637.8623"
+         x="165.5"
+         height="39"
+         width="79"
+         id="Digi-TABuddy-Desktop"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.51154417;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16.01775169px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="396.34732"
+       y="415.09143"
+       id="text5915-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99726291,1.0027446)"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         sodipodi:role="line"
+         x="396.34732"
+         y="415.09143"
+         id="tspan5943">TA Buddy: Desktop</tspan></text>
+    <g
+       id="digi-tabuddy-model"
+       transform="translate(0,129.9956)">
+      <rect
+         inkscape:label="#rect4174-9-3-0-3-2"
+         y="372.86215"
+         x="320.5"
+         height="79"
+         width="149"
+         id="Digi-TABuddy-Model"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text5915-8-8"
+         y="415.13339"
+         x="396.60022"
+         style="font-size:16.01775169px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5943-2"
+           y="415.13339"
+           x="396.60022"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">TA Buddy: Model</tspan></text>
+    </g>
+    <g
+       id="digi-tabuddy-model-type-attachment"
+       transform="translate(0,129.9956)">
+      <rect
+         inkscape:label="#rect4174-9-3-0-3-2-0"
+         y="372.86215"
+         x="580.5"
+         height="79"
+         width="149"
+         id="Digi-TABuddy-Model-Type-Attachment"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text5915-8-8-4"
+         y="406.38339"
+         x="657.31384"
+         style="font-size:16.01775169px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6010"
+           y="406.38339"
+           x="657.31384"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">TA Buddy: Model</tspan><tspan
+           id="tspan7358"
+           y="423.88339"
+           x="657.31384"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Type Attachment</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 150,797.36218 c -3.99348,0 -139.966758,0.62082 -139.966758,0.62082 l 0,-261.00288 L 50,537.36218"
+       id="path6946"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="digi-tabuddy-desktop-type-attachment"
+       transform="translate(0,129.9956)">
+      <rect
+         inkscape:label="#rect4174-9-3-0-3-2-0-5"
+         y="242.86217"
+         x="580.87488"
+         height="79"
+         width="149"
+         id="Digi-TABuddy-Desktop-Type-Solid-Attachment"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text5915-8-8-4-9"
+         y="276.70163"
+         x="657.43683"
+         style="font-size:16.01775169px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan6010-1"
+           y="276.70163"
+           x="657.43683"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">TA Buddy: Desktop</tspan><tspan
+           id="tspan7354"
+           y="294.20163"
+           x="657.43683"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Type Attachment</tspan></text>
+    </g>
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7"
+       width="19"
+       height="9"
+       x="70.5"
+       y="962.86218"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3"
+       width="19"
+       height="9"
+       x="90.5"
+       y="962.86218"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6"
+       width="19"
+       height="9"
+       x="110.49999"
+       y="962.86212"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7"
+       width="19"
+       height="9"
+       x="50.5"
+       y="962.86188"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-4"
+       width="19"
+       height="9"
+       x="260.5"
+       y="962.86218"
+       class="sbt-pgp" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.01775169px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="63.747391"
+       y="1016.2388"
+       id="text8078"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99726289,1.0027446)"><tspan
+         sodipodi:role="line"
+         id="tspan8080"
+         x="63.747391"
+         y="1016.2388"
+         style="font-size:12.0133152px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif Italic">Bottom left corner contains list of plugins of the production configuration.</tspan><tspan
+         sodipodi:role="line"
+         x="63.747391"
+         y="1031.2554"
+         style="font-size:12.0133152px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif Italic"
+         id="tspan8099">The development configuration is out of scope. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="114.10505"
+       y="542.49823"
+       id="text8082"
+       sodipodi:linespacing="125%"
+       transform="translate(0,52.362183)"><tspan
+         sodipodi:role="line"
+         id="tspan8084"
+         x="114.10505"
+         y="542.49823" /></text>
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7"
+       width="19"
+       height="9"
+       x="170.5"
+       y="827.86218"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6"
+       width="19"
+       height="9"
+       x="190.5"
+       y="827.86218"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1"
+       width="19"
+       height="9"
+       x="210.49998"
+       y="827.86212"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7"
+       width="19.046139"
+       height="8.8926859"
+       x="150.47693"
+       y="827.91583"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7-9"
+       width="18.994453"
+       height="8.9520416"
+       x="70.517227"
+       y="702.91016"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6-6"
+       width="18.994453"
+       height="8.9520416"
+       x="90.511391"
+       y="702.91016"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-78"
+       width="18.994453"
+       height="8.9520416"
+       x="110.50555"
+       y="702.9101"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7-9"
+       width="19.040579"
+       height="8.9412518"
+       x="50.500008"
+       y="702.86218"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7-1"
+       width="18.994453"
+       height="8.999939"
+       x="70.494156"
+       y="572.86224"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6-2"
+       width="18.994453"
+       height="8.999939"
+       x="90.488319"
+       y="572.86224"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-8"
+       width="18.994453"
+       height="8.999939"
+       x="110.48248"
+       y="572.86218"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7-5"
+       width="19.040577"
+       height="8.8926249"
+       x="50.476936"
+       y="572.91589"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7-97"
+       width="20.000004"
+       height="8.9998198"
+       x="70.5"
+       y="442.86237"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6-1"
+       width="20.000004"
+       height="8.9998198"
+       x="90.5"
+       y="442.86237"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-88"
+       width="19.000004"
+       height="8.9998198"
+       x="110.5"
+       y="442.86237"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7-0"
+       width="20.000004"
+       height="8.9998207"
+       x="50.500004"
+       y="442.86215"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7-95"
+       width="20.204082"
+       height="8.9999752"
+       x="70.704071"
+       y="312.86221"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6-27"
+       width="20.204082"
+       height="8.9999752"
+       x="90.908165"
+       y="312.86221"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-4"
+       width="19.193878"
+       height="8.9999752"
+       x="111.11224"
+       y="312.86221"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7-08"
+       width="20.204082"
+       height="8.9999752"
+       x="50.500004"
+       y="312.86218"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7-6"
+       width="20.204086"
+       height="8.9999752"
+       x="340.70407"
+       y="442.85779"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6-5"
+       width="20.204086"
+       height="8.9999752"
+       x="360.90814"
+       y="442.85779"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-9"
+       width="19.193882"
+       height="8.9999752"
+       x="381.11224"
+       y="442.85779"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7-6"
+       width="20.204086"
+       height="8.9999752"
+       x="320.5"
+       y="442.85776"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ccff42;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-7-04"
+       width="19.193882"
+       height="8.9999752"
+       x="400.30612"
+       y="442.85779"
+       class="sbt-aspectj-nested" />
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7-67"
+       width="20.000008"
+       height="8.9998074"
+       x="340.5"
+       y="572.85803"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6-272"
+       width="20.000008"
+       height="8.9998074"
+       x="360.49997"
+       y="572.85803"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-41"
+       width="19.000008"
+       height="8.9998074"
+       x="380.49997"
+       y="572.85803"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7-93"
+       width="20.000008"
+       height="8.9998074"
+       x="320.5"
+       y="572.85779"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7-8"
+       width="19.999998"
+       height="8.9998751"
+       x="600.5"
+       y="572.85797"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6-68"
+       width="19.999998"
+       height="8.9998751"
+       x="620.5"
+       y="572.85797"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-74"
+       width="19"
+       height="8.9998751"
+       x="640.5"
+       y="572.85797"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7-07"
+       width="20.000002"
+       height="8.9998751"
+       x="580.5"
+       y="572.85785"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7-5"
+       width="20.204073"
+       height="8.9999752"
+       x="600.7041"
+       y="442.85779" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6-52"
+       width="20.204073"
+       height="8.9999752"
+       x="620.9082"
+       y="442.85779"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-6"
+       width="19.193871"
+       height="8.9999752"
+       x="641.11224"
+       y="442.85779"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7-1"
+       width="20.204075"
+       height="8.9999752"
+       x="580.5"
+       y="442.85776"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ccff42;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-7-3"
+       width="19.193871"
+       height="8.9999752"
+       x="660.30615"
+       y="442.85779"
+       class="sbt-aspectj-nested" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 154.27964,720.49571 41.47148,-56.0001"
+       id="path4112"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       transform="translate(0,172.36218)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 193.40353,585.50442 156.59648,539.49561"
+       id="path4296"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       transform="translate(0,172.36218)" />
+    <g
+       transform="translate(100.02753,-134.99571)"
+       id="booklet">
+      <rect
+         inkscape:label="#rect4172-6"
+         y="892.8667"
+         x="260.47247"
+         height="78.991188"
+         width="149.05507"
+         id="rect5092-9"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.96516778,1.0360893)"
+         sodipodi:linespacing="125%"
+         id="text4176-7-2"
+         y="905.14288"
+         x="317.72958"
+         style="font-size:15.63892269px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Cyberbit;-inkscape-font-specification:Bitstream Cyberbit"
+         xml:space="preserve"><tspan
+           y="905.14288"
+           x="317.72958"
+           id="tspan4178-4-7"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Booklet</tspan></text>
+    </g>
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-3"
+       width="19"
+       height="9"
+       x="380.5"
+       y="827.86212"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-1"
+       width="19"
+       height="9"
+       x="400.5"
+       y="827.86212"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-4-8"
+       width="19"
+       height="9"
+       x="360.5"
+       y="827.86218"
+       class="sbt-pgp" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 260.47247,759.9987 -60.9174,-0.001"
+       id="path4028"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#pojosrx"
+       inkscape:connection-start-point="d4"
+       transform="translate(0,172.36218)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 435.03032,664.50001 135.20711,95.64644"
+       id="path4986"
+       inkscape:connector-curvature="0"
+       transform="translate(0,172.36218)"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 469.5,542.35775 111,0"
+       id="path4165"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#digi-tabuddy-model"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#digi-tabuddy-model-type-attachment"
+       inkscape:connection-end-point="d4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 655.11391,502.85775 0.14706,-50.99998"
+       id="path4167"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#digi-tabuddy-model-type-attachment"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#digi-tabuddy-desktop-type-attachment"
+       inkscape:connection-end-point="d4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 242.43962,585.5044 367.03764,409.49557"
+       id="path4715"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#digi-tabuddy-model"
+       inkscape:connection-end-point="d4"
+       transform="translate(0,172.36218)" />
+    <g
+       transform="translate(270.47247,0.50442243)"
+       id="digi-launcher">
+      <rect
+         inkscape:label="#rect4174-9-3-0"
+         y="242.86658"
+         x="50.472466"
+         height="78.991188"
+         width="149.05507"
+         id="Digi-Launcher-5"
+         style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text5915-4"
+         y="285.40378"
+         x="70.395813"
+         style="font-size:16.01775169px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="285.40378"
+           x="70.395813"
+           id="tspan5917-4"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Digi Launcher</tspan></text>
+    </g>
+    <rect
+       style="fill:#ff9900;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-4-7-95-0"
+       width="20.204082"
+       height="8.9999752"
+       x="341.17654"
+       y="313.36664"
+       class="sbt-dependency-manager" />
+    <rect
+       style="fill:#ffff3e;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-5-6-27-4"
+       width="20.204082"
+       height="8.9999752"
+       x="361.38065"
+       y="313.36664"
+       class="sbt-site-manager" />
+    <rect
+       style="fill:#ff4141;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-4-3"
+       width="19.193878"
+       height="8.9999752"
+       x="381.58472"
+       y="313.36664"
+       class="sbt-osgi-manager" />
+    <rect
+       style="fill:#bdcdd4;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-7-7-6-7-08-3"
+       width="20.204082"
+       height="8.9999752"
+       x="320.97247"
+       y="313.36661"
+       class="sbt-pgp" />
+    <rect
+       style="fill:#ccff42;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108-84-3-6-9-1-7-0-4"
+       width="19.193878"
+       height="8.9999752"
+       x="400.77859"
+       y="313.36664"
+       class="sbt-aspectj-nested" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 469.52754,239.99559 111.34734,0"
+       id="path3182"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3136"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#digi-tabuddy-desktop-type-attachment"
+       inkscape:connection-end-point="d4"
+       transform="translate(0,172.36218)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 166.01396,460.5044 353.98605,279.49118"
+       id="path3184"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#digi-lib-util"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3136"
+       inkscape:connection-end-point="d4"
+       transform="translate(0,172.36218)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 395,330.49557 0,-51.00439"
+       id="path3186"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#digi-tabuddy-model"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3136"
+       inkscape:connection-end-point="d4"
+       transform="translate(0,172.36218)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 199.5,239.99876 120.97247,-0.002"
+       id="path4508"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#digi-configgy"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3136"
+       inkscape:connection-end-point="d4"
+       transform="translate(0,172.36218)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 199.52753,145.8824 120.94494,58.23078"
+       id="path4723"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#g3136"
+       inkscape:connection-end-point="d4"
+       transform="translate(0,172.36218)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,2;stroke-dashoffset:0"
+       d="M 395.32837,150.00001 395.14411,200.5"
+       id="path4907"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#digi-launcher"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3136"
+       inkscape:connection-end-point="d4"
+       transform="translate(0,172.36218)" />
+    <g
+       id="sbt-application">
+      <path
+         inkscape:label="#path3017-1-6-8"
+         d="m 30.09375,392.25 0,45 50,0 0,-45 -50,0 z"
+         id="SBT-PGP-7"
+         style="fill:#3e9ade;fill-opacity:1;stroke:#cac5a2;stroke-width:0.25470966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none"
+         inkscape:original="M 30.09375 392.25 L 30.09375 437.25 L 80.09375 437.25 L 80.09375 392.25 L 30.09375 392.25 z "
+         inkscape:radius="0"
+         sodipodi:type="inkscape:offset"
+         transform="matrix(4.39,0,0,0.87777778,677.88844,568.30385)" />
+      <text
+         transform="scale(0.99726291,1.0027446)"
+         sodipodi:linespacing="125%"
+         id="text3811-9-4-2"
+         y="935.3916"
+         x="859.91266"
+         style="font-size:24.0266304px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.01775169px"
+           y="935.3916"
+           x="859.91266"
+           id="tspan3813-7-7-6"
+           sodipodi:role="line">SBT Application</tspan></text>
+    </g>
+    <rect
+       style="fill:#3e9ade;stroke:#000000;stroke-width:0.99999994000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="rect4108-84-3-6-9-1-4-6"
+       width="19.193878"
+       height="8.9999752"
+       x="130.40306"
+       y="312.86218"
+       class="sbt-application" />
+  </g>
+  <g
+     id="webslicer-layer"
+     inkscape:label="Web Slicer"
+     inkscape:groupmode="layer"
+     transform="translate(0,-172.36218)" />
+</svg>
